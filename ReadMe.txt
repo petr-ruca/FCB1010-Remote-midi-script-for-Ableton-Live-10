@@ -24,7 +24,7 @@ Revision History
 
 2018-06-20
 * FCB1020 revision 4 - Live 10 compatibility fix (Should be compatible with 9.5+ too)
-
+* Added sysex preset for UNO chip
 
 ----------
 DISCLAIMER
